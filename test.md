@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A1[溶液配制] --> B[浸渍涂层]
     A2[基底处理] --> B
@@ -22,3 +23,4 @@ graph TD
     classDef process fill:#e1f5fe,stroke:#01579b
     classDef decision fill:#fff9c4,stroke:#fbc02d
     classDef analysis fill:#f3e5f5,stroke:#7b1fa2
+```
